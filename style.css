@@ -1,0 +1,19 @@
+.content
+{
+ margin: auto;
+ max-width:1000px;
+}
+
+
+.address{
+
+height: 44px; 
+width: 341px;
+margin:auto;}
+
+.buttons
+{
+margin:auto;
+width:200px;
+font-size: 50px;
+padding: 14px 28px;}
